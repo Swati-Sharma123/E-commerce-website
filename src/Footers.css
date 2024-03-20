@@ -1,0 +1,63 @@
+.footer
+{
+    display: flex;
+    background-color:#ffffff;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.hr1
+{
+    margin-top: 35px;
+}
+.footer_sec_one
+{
+    margin-left: 5%;
+    width: 20vw;
+}
+.nav_address{
+    margin-top: 25px;
+}
+.link
+{
+    margin-top: 35px;
+}
+.help_flex
+{
+    margin-top: 33px;
+}
+
+.footer_sec_four
+{
+    margin-right: 5%; 
+}
+
+.Newsletter
+{
+    display: flex;
+    
+}
+
+.Email_sec
+{
+    border: none;
+    border-bottom: 1px solid black;
+    height: 5vh;
+}
+.subscribe
+{
+    border-bottom: 1px solid black;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size:small ;
+    font-weight: 600;
+    
+}
+.hr2
+{
+    width: 90%;
+    margin-top: 40px;
+}
+.bottom
+{
+ margin: 20px 60px;
+}

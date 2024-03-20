@@ -1,0 +1,67 @@
+.shop_image
+{
+    position: relative;
+    width: 100%;
+}
+.shop_heading
+{
+    position: absolute;
+    margin: 10% 50%;
+    font-weight: 700;
+}
+.shop_details
+{
+    background-color: #F9F1E7;
+    height: 100px;
+    margin-top:-10px;
+    display: flex;
+}
+.shop_sec_one
+{
+    margin-left: 5%;
+    display: flex;
+}
+.shop_sec_two
+{
+    display: flex;
+    margin-left: 55%;
+    margin-right: 2%;
+}
+
+.setting, .filter, .dot
+{
+    height: 5vh;
+    margin-top: 10%;
+}
+.shop_text
+{
+    margin-top: 12%;
+}
+.shop_text_sec
+{
+    margin-top: 8%;
+    margin-right: 5%;
+}
+.input_sec
+{
+height: 30%;
+width: 10%;
+margin-top: 7%;
+margin-right: 10%;
+border: none;
+}
+.shop_hr
+{
+    height: 5vh;
+    margin-top: 10%;
+    width: 5px solid black;
+}
+.input_sec_second
+{
+    height: 30%;
+    width: 25%;
+    margin: 7% 4%;
+    border: none;
+    text-align: center;   
+}
+
